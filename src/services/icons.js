@@ -1,0 +1,1 @@
+export const icons = [{ name: 'terminal', state: { close: true, minimize: true, maximize: false }, id: 1 }, { name: 'proyects', state: { close: true, minimize: true, maximize: false }, id: 2 }, { name: 'slim', state: { close: true, minimize: true, maximize: false }, id: 3 }]
